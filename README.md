@@ -1,2 +1,2 @@
-# automation-test-ninjainvoices-with-wawtir
+# automation-test-ninjainvoices-with-watir-webdriver
 Automação de testes web com Watir Webdriver
